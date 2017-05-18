@@ -10,6 +10,9 @@ package com.mycompany.desafio1;
  * @author santi
  */
 public class Main {
+    public void sac(){
+        System.out.println("santi");
+    }
     public static void main(String[] args) {
         System.out.println("santi");
     }
