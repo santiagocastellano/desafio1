@@ -12,6 +12,7 @@ package com.mycompany.desafio1;
 public class Main {
     public void sac(){
         System.out.println("santi");
+        System.out.println("santi5");
     }
     public static void main(String[] args) {
         System.out.println("santi");
